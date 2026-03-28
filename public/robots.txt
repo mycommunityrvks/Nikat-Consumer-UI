@@ -1,0 +1,10 @@
+# robots.txt for LocalDiscover
+
+User-agent: *
+Allow: /
+Disallow: /profile
+Disallow: /login
+Disallow: /signup
+
+# Sitemap
+Sitemap: https://localdiscover.com/sitemap.xml
